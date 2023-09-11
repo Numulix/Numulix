@@ -1,10 +1,8 @@
 # 💫About Me :
 Heyo, I'm Jovan. Currently a final year student at the Faculty of Computing in Belgrade
-and a Junior Frontend Engineer at Seven Bridges.
+and an Associate Frontend Software Engineer at Velsera.
 Working mostly with Angular and Vue, but learning React on the side.
-Wanting to learn: Nuxt
-Currently learning: Rust
-weewoo
+Learning at the moment: Microfrontends
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jbabic_numulix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jovan-babi%C4%87-56530b179/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/drandevi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/numulix) 
